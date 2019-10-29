@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}{{ room_info['room_name'] }}{% endblock %}
+
+{% block body_content %}
+    <div>
+      <div id='user_status'>
+
+        <!-- <div class='row'>
+          <h6 class='p-r-30'>
+              General user
+          </h6>
+          <div class="green_icon"></div>
+        </div> -->
+
+      </div>
+    </div>
+
+    <div id='subscribe'>
+        {% for mes in messages %}
+          {% if mes['msg'].startswith('file://') %}
+            <p>[{{ mes['time'].strftime('%H:%M | %d/%m/%Y') }}] ({{ mes['user'] }}) <a target="_blank" href='{{ mes['msg'][6:] }}'>{{ mes['msg'][mes['msg'].rfind('/')+1:] }}</a></p>
+          {% else %}
+            <p>[{{ mes['time'].strftime('%H:%M | %d/%m/%Y') }}] ({{ mes['user'] }}) {{ mes['msg'] }}</p>
+          {% endif %}
+        {% endfor %}
+    </div>
+
+    <div style="clear:both;width: 100%;">&nbsp;</div>
+
+    <div class="row">
+        <div class="col-md-6"></div>
+        <div class="col-md-6">
+          <input type="text" id="message" autocomplete="off" style="border: 1px solid">
+          <input class="btn btn-primary" type="submit" id='submit_msg' value="Gửi">
+          <input class="btn btn-default" type="button" id='profile_rooms' value="Trở về">
+          <form action="/upload_data" method="post" accept-charset="utf-8" enctype="multipart/form-data">
+
+            <!-- <label for="file">File tải lên</label> -->
+            <input class="file" type="file" name="file" id='file' value=""/>
+            <input class="btn btn-secondary" type="submit" id='submit_file' value="Gửi file"/>
+
+          </form>
+        </div>
+    </div>
+{% endblock %}
+
+{% block footerjs %}
+    <script type='text/javascript'>
+      window.username = "{{ user_info['username'] }}";
+      window.room_id = "{{ room_info['room_id'] }}";
+      window.room_name = "{{ room_info['room_name'] }}";
+    </script>
+    <script src="{{ url('static', filename='js/chat_socket.js') }}"></script>
+{% endblock %}
