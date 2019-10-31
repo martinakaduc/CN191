@@ -39,6 +39,13 @@ class User():
             await cursor.close()
             return rows
 
+    async def get_email(self, email):
+        async with aiosqlite.connect(self.user_db_file) as db:
+            cursor = await db.execute("select * from users where email = '{0}'".format(email))
+            rows = await cursor.fetchone()
+            await cursor.close()
+            return rows
+
     async def set_user_offline(self, username):
         user = await self.get_user_info(username)
         if not user:
@@ -75,8 +82,9 @@ class User():
     async def create_user(self, data):
         result = False
         user = await self.get_user_info(data.get('username'))
+        email = await self.get_email(data.get('email'))
 
-        if not user and data.get('username'):
+        if not user and not email and data.get('username'):
             async with aiosqlite.connect(self.user_db_file) as db:
                 password = hashlib.md5(data.get('password').encode('utf-8')).hexdigest()
                 results = await db.execute("insert into users (username, password, email, room_id, name, is_online) "

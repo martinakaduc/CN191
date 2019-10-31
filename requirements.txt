@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+numpy
+cryptography
+aiohttp_jinja2
+jinja2
+aiosqlite
+aiohttp_session
+python-socketio
