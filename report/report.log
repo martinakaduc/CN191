@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.28)  1 NOV 2019 00:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.28)  4 NOV 2019 23:21
 entering extended mode
 **./report.tex
 (report.tex
@@ -1323,6 +1323,23 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\h' on input line 179.
 
 
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 179.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\ocircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 179.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ocircumflex' on input line 179.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 179.
+
+
 Package hyperref Warning: Composite letter `\textacute+\uhorn'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textacute' on input line 179.
@@ -2039,15 +2056,22 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 436.
  (report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 436.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 436.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: CA8D6F0A7EEBC37610A3CFD475EE6859;2519.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: 128AD761795F04ECE5E2BA947CE1041A;2529
+(rerunfilecheck)             After:  4BDDA6148BDC26A8D80E57C3F3EAA95E;2537.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 436.
  ) 
 Here is how much of TeX's memory you used:
- 21554 strings out of 492895
- 407446 string characters out of 3133479
- 477901 words of memory out of 3000000
- 24946 multiletter control sequences out of 15000+200000
+ 21555 strings out of 492895
+ 407475 string characters out of 3133479
+ 477903 words of memory out of 3000000
+ 24947 multiletter control sequences out of 15000+200000
  17022 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,24n,76p,521b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2061,9 +2085,9 @@ our/vntex/vnr/dpi600\vnr8.pk> <C:\Users\nguye\AppData\Local\MiKTeX\2.9\fonts/pk
 onts/pk/ljfour/vntex/vnr/dpi720\vnbx12.pk> <C:\Users\nguye\AppData\Local\MiKTeX
 \2.9\fonts/pk/ljfour/vntex/vnr/dpi600\vnr10.pk><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (16 pages, 17996382 bytes).
+Output written on report.pdf (16 pages, 17997204 bytes).
 PDF statistics:
- 830 PDF objects out of 1000 (max. 8388607)
+ 832 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 500000)
  403 words of extra memory for PDF output out of 10000 (max. 10000000)
 
