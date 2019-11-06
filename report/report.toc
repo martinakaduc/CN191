@@ -15,6 +15,8 @@
 \contentsline {subsubsection}{\numberline {3.2.1}T\IeC {\d a}o ph\IeC {\`o}ng chat}{3}{subsubsection.3.2.1}% 
 \contentsline {subsubsection}{\numberline {3.2.2}Th\IeC {\^e}m ng\IeC {\uhorn }\IeC {\`\ohorn }i v\IeC {\`a}o ph\IeC {\`o}ng chat}{3}{subsubsection.3.2.2}% 
 \contentsline {subsection}{\numberline {3.3}Qu\IeC {\h a}n l\IeC {\'y} tin nh\IeC {\'\abreve }n v\IeC {\`a} file}{4}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}L\IeC {\uhorn }u tr\IeC {\~\uhorn } tin nh\IeC {\'\abreve }n}{4}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}L\IeC {\uhorn }u tr\IeC {\~\uhorn } file \IeC {\dj }\IeC {\uhorn }\IeC {\d \ohorn }c chia s\IeC {\h e}}{4}{subsubsection.3.3.2}% 
 \contentsline {section}{\numberline {4}Thi\IeC {\'\ecircumflex }t k\IeC {\'\ecircumflex } \IeC {\'\uhorn }ng d\IeC {\d u}ng}{4}{section.4}% 
 \contentsline {subsection}{\numberline {4.1}Lu\IeC {\`\ocircumflex }ng ch\IeC {\'\i }nh}{4}{subsection.4.1}% 
 \contentsline {subsection}{\numberline {4.2}Qu\IeC {\h a}n l\IeC {\'y} ng\IeC {\uhorn }\IeC {\`\ohorn }i d\IeC {\`u}ng}{4}{subsection.4.2}% 
