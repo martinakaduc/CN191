@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.28)  6 NOV 2019 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.28)  6 NOV 2019 15:17
 entering extended mode
 **./report.tex
 (report.tex
@@ -1103,7 +1103,7 @@ LaTeX Info: Redefining \nameref on input line 85.
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
-<hcmut.png, id=146, 272.01625pt x 277.035pt>
+<hcmut.png, id=154, 272.01625pt x 277.035pt>
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
 Package pdftex.def Info: hcmut.png  used on input line 98.
@@ -1775,17 +1775,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--252
 \T5/cmr/m/n/10 i·u ki»n b­t buëc l  t¶n ng÷íi dòng v  email ph£i l  duy nh§t.
  []
 
-<create_user.png, id=223, 1156.32pt x 566.71725pt>
+<create_user.png, id=231, 1156.32pt x 566.71725pt>
 File: create_user.png Graphic file (type png)
 <use create_user.png>
 Package pdftex.def Info: create_user.png  used on input line 255.
 (pdftex.def)             Requested size: 416.27489pt x 204.01805pt.
-<profile_manager.png, id=224, 1156.32pt x 566.71725pt>
+<profile_manager.png, id=232, 1156.32pt x 566.71725pt>
 File: profile_manager.png Graphic file (type png)
 <use profile_manager.png>
 Package pdftex.def Info: profile_manager.png  used on input line 262.
 (pdftex.def)             Requested size: 416.27489pt x 204.01805pt.
-<password_not_match_register.png, id=225, 1156.32pt x 566.71725pt>
+<password_not_match_register.png, id=233, 1156.32pt x 566.71725pt>
 File: password_not_match_register.png Graphic file (type png)
 <use password_not_match_register.png>
 Package pdftex.def Info: password_not_match_register.png  used on input line 26
@@ -1796,12 +1796,12 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 273.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [5 <./create_user.png> <./profile_manager.png>]
-<check_email.png, id=235, 1156.32pt x 566.115pt>
+<check_email.png, id=243, 1156.32pt x 566.115pt>
 File: check_email.png Graphic file (type png)
 <use check_email.png>
 Package pdftex.def Info: check_email.png  used on input line 276.
 (pdftex.def)             Requested size: 416.27489pt x 203.80124pt.
-<can_not_register.png, id=236, 495.95288pt x 247.52475pt>
+<can_not_register.png, id=244, 495.95288pt x 247.52475pt>
 File: can_not_register.png Graphic file (type png)
 <use can_not_register.png>
 Package pdftex.def Info: can_not_register.png  used on input line 283.
@@ -1837,7 +1837,7 @@ Package hyperref Warning: Composite letter `\textacute+\acircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\acircumflex' on input line 288.
 
-<login.png, id=247, 1156.32pt x 569.12625pt>
+<login.png, id=255, 1156.32pt x 569.12625pt>
 File: login.png Graphic file (type png)
 <use login.png>
 Package pdftex.def Info: login.png  used on input line 294.
@@ -1851,7 +1851,7 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 305.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [7 <./can_not_register.png> <./login.png>]
-<can_not_login.png, id=257, 218.31563pt x 105.39375pt>
+<can_not_login.png, id=265, 218.31563pt x 105.39375pt>
 File: can_not_login.png Graphic file (type png)
 <use can_not_login.png>
 Package pdftex.def Info: can_not_login.png  used on input line 308.
@@ -1884,7 +1884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
-<forget_password.png, id=258, 1156.32pt x 567.62062pt>
+<forget_password.png, id=266, 1156.32pt x 567.62062pt>
 File: forget_password.png Graphic file (type png)
 <use forget_password.png>
 Package pdftex.def Info: forget_password.png  used on input line 318.
@@ -1894,7 +1894,7 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 322.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [8 <./can_not_login.png>]
-<email_not_reconize.png, id=267, 442.65375pt x 192.72pt>
+<email_not_reconize.png, id=275, 442.65375pt x 192.72pt>
 File: email_not_reconize.png Graphic file (type png)
 <use email_not_reconize.png>
 Package pdftex.def Info: email_not_reconize.png  used on input line 325.
@@ -1934,7 +1934,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 331--333
 \T5/cmr/m/n/10 êi mªt kh©u".
  []
 
-<change_password.png, id=268, 1156.32pt x 570.63188pt>
+<change_password.png, id=276, 1156.32pt x 570.63188pt>
 File: change_password.png Graphic file (type png)
 <use change_password.png>
 Package pdftex.def Info: change_password.png  used on input line 336.
@@ -1944,7 +1944,7 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 340.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [9 <./forget_password.png> <./email_not_reconize.png>]
-<password_not_match.png, id=278, 380.01974pt x 286.06876pt>
+<password_not_match.png, id=286, 380.01974pt x 286.06876pt>
 File: password_not_match.png Graphic file (type png)
 <use password_not_match.png>
 Package pdftex.def Info: password_not_match.png  used on input line 343.
@@ -1960,7 +1960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 349--351
 \T5/cmr/m/n/10 pháng chat".
  []
 
-<create_room.png, id=279, 1156.32pt x 566.71725pt>
+<create_room.png, id=287, 1156.32pt x 566.71725pt>
 File: create_room.png Graphic file (type png)
 <use create_room.png>
 Package pdftex.def Info: create_room.png  used on input line 354.
@@ -1980,12 +1980,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--362
 \T5/cmr/m/n/10 N¸u câ nhi·u b¤n b±, h¢y nhªp ph¥n bi»t b¬ng d§u ','.
  []
 
-<add_user.png, id=289, 1156.32pt x 567.62062pt>
+<add_user.png, id=297, 1156.32pt x 567.62062pt>
 File: add_user.png Graphic file (type png)
 <use add_user.png>
 Package pdftex.def Info: add_user.png  used on input line 365.
 (pdftex.def)             Requested size: 416.27489pt x 204.34326pt.
-<view_room.png, id=290, 1156.32pt x 564.60938pt>
+<view_room.png, id=298, 1156.32pt x 564.60938pt>
 File: view_room.png Graphic file (type png)
 <use view_room.png>
 Package pdftex.def Info: view_room.png  used on input line 375.
@@ -2021,12 +2021,12 @@ Package hyperref Warning: Composite letter `\textacute+\abreve'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\abreve' on input line 380.
 
-<send_message.png, id=300, 1156.32pt x 566.71725pt>
+<send_message.png, id=308, 1156.32pt x 566.71725pt>
 File: send_message.png Graphic file (type png)
 <use send_message.png>
 Package pdftex.def Info: send_message.png  used on input line 385.
 (pdftex.def)             Requested size: 416.27489pt x 204.01805pt.
-<send_message_success.png, id=301, 1156.32pt x 567.62062pt>
+<send_message_success.png, id=309, 1156.32pt x 567.62062pt>
 File: send_message_success.png Graphic file (type png)
 <use send_message_success.png>
 Package pdftex.def Info: send_message_success.png  used on input line 392.
@@ -2053,12 +2053,12 @@ Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\acircumflex' on input line 397.
 
-<send_file.png, id=312, 1156.32pt x 567.62062pt>
+<send_file.png, id=320, 1156.32pt x 567.62062pt>
 File: send_file.png Graphic file (type png)
 <use send_file.png>
 Package pdftex.def Info: send_file.png  used on input line 403.
 (pdftex.def)             Requested size: 416.27489pt x 204.34326pt.
-<send_file_prepare.png, id=313, 1156.32pt x 567.62062pt>
+<send_file_prepare.png, id=321, 1156.32pt x 567.62062pt>
 File: send_file_prepare.png Graphic file (type png)
 <use send_file_prepare.png>
 Package pdftex.def Info: send_file_prepare.png  used on input line 410.
@@ -2068,7 +2068,7 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 414.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [13 <./send_message_success.png> <./send_file.png>]
-<send_file_success.png, id=323, 1156.32pt x 567.62062pt>
+<send_file_success.png, id=331, 1156.32pt x 567.62062pt>
 File: send_file_success.png Graphic file (type png)
 <use send_file_success.png>
 Package pdftex.def Info: send_file_success.png  used on input line 417.
@@ -2083,7 +2083,7 @@ Package hyperref Warning: Composite letter `\textdotbelow+a'
 Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\h' on input line 422.
 
-<user_status_online.png, id=324, 1156.32pt x 563.10374pt>
+<user_status_online.png, id=332, 1156.32pt x 563.10374pt>
 File: user_status_online.png Graphic file (type png)
 <use user_status_online.png>
 Package pdftex.def Info: user_status_online.png  used on input line 427.
@@ -2093,7 +2093,7 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 431.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [14 <./send_file_prepare.png> <./send_file_success.png>]
-<user_status_offline.png, id=334, 1156.32pt x 566.71725pt>
+<user_status_offline.png, id=342, 1156.32pt x 566.71725pt>
 File: user_status_offline.png Graphic file (type png)
 <use user_status_offline.png>
 Package pdftex.def Info: user_status_offline.png  used on input line 434.
@@ -2111,22 +2111,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 440.
  (report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 440.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 440.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 4BDDA6148BDC26A8D80E57C3F3EAA95E;2537
-(rerunfilecheck)             After:  49F28964F4E97245DDD5459D36F05CB7;2692.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 49F28964F4E97245DDD5459D36F05CB7;2692.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 440.
  ) 
 Here is how much of TeX's memory you used:
- 21559 strings out of 492895
- 407539 string characters out of 3133479
- 477903 words of memory out of 3000000
- 24949 multiletter control sequences out of 15000+200000
+ 21561 strings out of 492895
+ 407581 string characters out of 3133479
+ 478903 words of memory out of 3000000
+ 24951 multiletter control sequences out of 15000+200000
  17022 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,24n,76p,521b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2140,9 +2133,9 @@ our/vntex/vnr/dpi600\vnr8.pk> <C:\Users\nguye\AppData\Local\MiKTeX\2.9\fonts/pk
 onts/pk/ljfour/vntex/vnr/dpi720\vnbx12.pk> <C:\Users\nguye\AppData\Local\MiKTeX
 \2.9\fonts/pk/ljfour/vntex/vnr/dpi600\vnr10.pk><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (16 pages, 17999938 bytes).
+Output written on report.pdf (16 pages, 18000895 bytes).
 PDF statistics:
- 840 PDF objects out of 1000 (max. 8388607)
+ 848 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
- 403 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 419 words of extra memory for PDF output out of 10000 (max. 10000000)
 
